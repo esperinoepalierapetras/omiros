@@ -14,4 +14,6 @@ We create with ArduinoUnoRev3 a little data base which it reads and recognize th
 8. Κώδικας σε περιβάλλον Arduino idle
 9. Κατασκευή Βάσης στήριξης του έργου
 10. Εξέλιξη του έργου με Rasberry Pi ως αυτοματοποιημένο σύστημα. (Όμως δεν έχουμε την δυνατότητα αγοράς rasberry pi)
+11. Θα χρησιμοποιήσουμε το Rasberry Pi ως media player
+12. Δημιουργία Player List σημαντικότερων Ελλήνων Ποιητών
 
