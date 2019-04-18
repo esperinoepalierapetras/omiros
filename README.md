@@ -13,6 +13,7 @@ We create with ArduinoUnoRev3 a little data base which it reads and recognize th
     Ηχογράφηση των Ποιημάτων των Σημαντικότερων Ελλήνων Ποιητών
     Κώδικας σε περιβάλλον Arduino idle
     Κατασκευή Βάσης στήριξης του έργου
-    Εξέλιξη του έργου με Rasberry Pi ως αυτοματοποιημένο σύστημα. (Όμως δεν έχουμε την δυνατότητα αγοράς raspberry pi)
+    Εξέλιξη του έργου με Raspberry Pi ως αυτοματοποιημένο σύστημα. (Όμως δεν έχουμε την δυνατότητα αγοράς raspberry pi)
     Θα χρησιμοποιήσουμε το Raspberry Pi ως media player
     Δημιουργία Player List σημαντικότερων Ελλήνων Ποιητών
+    #Το έργο δεν έγινε με Raspberry Pi λόγω μη χρηματοδότησης
